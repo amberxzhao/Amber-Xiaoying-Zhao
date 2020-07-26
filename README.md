@@ -21,3 +21,13 @@
 ## [Project 3: Classification Tree](https://github.com/amberxzhao/Classification_Tree)
 ### Stock Data & Water Assessment Data
 This project explored the basic concept of classification and regression tree (CART), then it presented the application of R package tree and applied CART to two different datasets: stock prices and water assessment.
+
+## [Project 4: Logistic Regression](https://github.com/amberxzhao/LogisticRegression_GreenTaxi)
+### Green Taxi Data
+•	Identified the critical problem and established the analysis objective   <br />
+•	Collected creditable raw data from NYC Open Data  <br />
+•	Explored data properties, then cleaned and formatted data into desired form  <br />
+•	Applied the concepts and techniques of data mining on large data sets of an original topic <br />
+•	Modeled data in logistic regression method in R  <br />
+•	Conducted data visualization of exploratory data analysis to present an accessible way to see and understand data insight  <br />
+•	Summarized data analysis results into comprehensive research report  <br />
