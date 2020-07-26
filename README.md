@@ -2,7 +2,7 @@
 
 # [Project 1: Time Series Forecast Maximum Weed Speed](https://github.com/amberxzhao/Time-Series-Forecast-Maximum-Weed-Speed)
 
-Maximum Wind Speed in Central New York: Auto Regressive Integrated Moving Average (ARIMA) Modeling <br />	
+Maximum Wind Speed in Central New York:<br />	Auto Regressive Integrated Moving Average (ARIMA) Modeling <br />	
 •	Identified the research interests and analysis objective, and collected raw data from online open data source <br />
 •	Conducted data preparation for further analysis, including data cleaning and data property exploration (character, stationarity, decomposition) <br />
 •	Applied the concepts and techniques of data mining on large data sets of an original topic <br />
