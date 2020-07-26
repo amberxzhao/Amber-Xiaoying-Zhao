@@ -17,3 +17,7 @@
 •	Modeled data in running regression-based and classification-based data mining methods in R and SAS <br /> 
 •	Mastered the graphical tool and principles of exploratory data analysis to evaluate data <br /> 
 •	Developed skills in interpreting and explaining the results of data mining experiments in complete report <br /> 
+
+## [Project 3: Classification Tree](https://github.com/amberxzhao/Classification_Tree)
+### Stock Data & Water Assessment Data
+This project explored the basic concept of classification and regression tree (CART) and presented the application of R package tree, then it applied CART to two different datasets: stock prices and water assessment.
