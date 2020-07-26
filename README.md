@@ -20,4 +20,4 @@
 
 ## [Project 3: Classification Tree](https://github.com/amberxzhao/Classification_Tree)
 ### Stock Data & Water Assessment Data
-This project explored the basic concept of classification and regression tree (CART) and presented the application of R package tree, then it applied CART to two different datasets: stock prices and water assessment.
+This project explored the basic concept of classification and regression tree (CART), then it presented the application of R package tree and applied CART to two different datasets: stock prices and water assessment.
