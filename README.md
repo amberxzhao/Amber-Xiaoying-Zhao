@@ -1,5 +1,5 @@
-# Amber_Portfolio
-Amber (Xiaoying) Zhao
+# Amber Xiaoying Zhao
+MS in Statistics
 
 # [Project 1: Time Series Forecast Maximum Weed Speed](https://github.com/amberxzhao/Time-Series-Forecast-Maximum-Weed-Speed)
 
