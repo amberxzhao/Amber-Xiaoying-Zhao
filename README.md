@@ -34,4 +34,18 @@ This project explored the basic concept of classification and regression tree (C
 
 ## [Project 5: Time Series Study: Stock Volatility](https://github.com/amberxzhao/TimeSeries_StockVolitality)
 ### Volatility Estimation of Facebook Stock using Garch Modeling
-This project explored the stock market volatility using garch model. It was common sense that news, either good or bad, had huge impacts on the stock market. To find a company with substantial changes in its stock, this project emphasized on the companies with big scandals then finally decided to study volatility by using Facebook stock price data.
+This project explored the stock market volatility using garch model. It was common sense that news, either good or bad, had huge impacts on the stock market. To find a company with substantial changes in its stock, this project emphasized on the companies with big scandals then finally decided to study volatility by using Facebook stock price data.<br />
+
+
+## [Project 6: Hypothesis Test](https://github.com/amberxzhao/HypothesisTest_PregnancyStatusAndBabyWeight)
+### Impact of Education Level and Smoking Status of Pregnancy Women: Baby Weight Dataset Exploration
+This project established three research questions based on the 1997 birth weight data
+from National Center for Health Statistics to study the mother’s effects on baby weight. The
+project focused on exploring the impacts of education level and smoking status of expectant
+mother on infant’s weight and mother’s weight gain. <br />
+
+1. Explored ossible factors to classify whether mother was a smoker (logistic regression) <br />
+2. Studied the effect of mother’s education level on mother’s weight gain via by  (permutation test: Wilcoxon Rank Sum test)<br />
+3. Analyzed the effect of mother’s education level and smoking status on infant weight (ANOVA & cross-validation analysis)<br />
+
+Each question was discussed by its rationale, statistical model, SAS output, and conclusion. <br />
